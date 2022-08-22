@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @aarongittins
 
-- 📫 How to reach me aarongittins@mailfence.com and aarongittins.com
+- 📫 How to reach me aarongittins.com
 
 - 👀 I’m interested in building and designing things. 
 
 - I like mechanical engineering and web development.
 
-- 🌱 I’m currently learning python, arduino, linux, solidworks, 3d printing and metal fabrication... and much, much more. 
-
-- My other hobbies include basketball and playing the guitar.
 
 
 
