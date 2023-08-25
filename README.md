@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @aarongittins
 
-- 📫 How to reach me aarongittins.com
-
-- 👀 I’m interested in building and designing things. 
-
-- I like mechanical engineering and web development.
 
 
 
